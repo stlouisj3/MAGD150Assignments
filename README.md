@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# MAGD150Assignments
 
-You can use the [editor on GitHub](https://github.com/stlouisj3/MAGD150Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This is a repositroy for MAGD 150
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Soul Finder (Game)
 
-### Markdown
+This is the final project of the class and I decieded to make a game called Soul Finer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150SoulFinder_StLouis_2020_12_02_19_26_11/sketch.js)
 
-```markdown
-Syntax highlighted code block
+[Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150SoulFinder_StLouis_2020_12_02_19_26_11/index.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Lab 9
+We had to show our understanding of sound and video
+[Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab09_StLouis_2020_11_08_16_54_46/sketch.js)
 
-- Bulleted
-- List
+[Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab09_StLouis_2020_11_08_16_54_46/index.html)
 
-1. Numbered
-2. List
+## Lab 8
 
-**Bold** and _Italic_ and `Code` text
+We had to show our undertanding of using images in a sketch.
 
-[Link](url) and ![Image](src)
-```
+[Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150_lab08_StLouis_2020_10_30_00_50_03/sketch.js)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150_lab08_StLouis_2020_10_30_00_50_03/index.html)
 
-### Jekyll Themes
+## Lab 7
+We had to show our understanding of objects and arrays
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stlouisj3/MAGD150Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab07_StLouis_2020_10_25_17_48_40/sketch.js)
 
-### Support or Contact
+[Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab07_StLouis_2020_10_25_17_48_40/index.html)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lab 5
+We had to show our understanding of buttons and intersections
+
+[Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab05_StLouis_2020_10_09_00_09_04/sketch.js)
+
+[Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab05_StLouis_2020_10_09_00_09_04/index.html)
+
