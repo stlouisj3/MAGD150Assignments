@@ -12,6 +12,7 @@ This is the final project of the class and I decieded to make a game called Soul
 
 ## Lab 9
 We had to show our understanding of sound and video
+
 [Click hear to see the source code](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab09_StLouis_2020_11_08_16_54_46/sketch.js)
 
 [Soulf Finder HTML](https://github.com/stlouisj3/MAGD150Assignments/blob/main/f20magd150lab09_StLouis_2020_11_08_16_54_46/index.html)
